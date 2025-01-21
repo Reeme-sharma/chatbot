@@ -1,0 +1,17 @@
+{
+    "name": "mypackage/chatbot",
+    "description": "A basic package creation",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mypackage\\Chatbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kusum sharma",
+            "email": "ks992082@gmail.com"
+        }
+    ],
+    "require": {}
+}
