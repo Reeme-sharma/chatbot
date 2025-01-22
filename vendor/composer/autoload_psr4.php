@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Mypackage\\Chatbot\\' => array($baseDir . '/src'),
+    'Trial\\Chatbot\\' => array($baseDir . '/src'),
 );

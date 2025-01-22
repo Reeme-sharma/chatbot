@@ -1,10 +1,10 @@
 {
-    "name": "mypackage/chatbot",
+    "name": "trial/chatbot",
     "description": "A basic package creation",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Mypackage\\Chatbot\\": "src/"
+            "Trial\\Chatbot\\": "src/"
         }
     },
     "authors": [
