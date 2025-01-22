@@ -1,10 +1,10 @@
 {
-    "name": "trial/chatbot",
+    "name": "jaiaxixa/chatbot",
     "description": "A basic package creation",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Trial\\Chatbot\\": "src/"
+            "Jaiaxixa\\Chatbot\\": "src/"
         }
     },
     "authors": [

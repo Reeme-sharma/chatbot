@@ -1,6 +1,6 @@
 <?php 
 
-namespace Trial\Chatbot;
+namespace Jaiaxixa\Chatbot;
 
 class Maxness
 {
