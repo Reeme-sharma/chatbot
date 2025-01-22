@@ -4,8 +4,8 @@ namespace Mypackage\Chatbot;
 
 class Maxness
 {
-    public function askQuestion()
+    public function askQuestion($question)
     {
-        return 'What is the meaning of life?';
+        return $question."<br/>I don't have any idea. Please ask me again";
     }
 }
